@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.app{
+  background-image: url(./assets/arrangement-black-friday-shopping-carts-with-copy-space.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  }
